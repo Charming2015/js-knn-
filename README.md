@@ -1,3 +1,4 @@
+# js实现knn算法（二维）
 首先了解设么是knn算法
 #### KNN算法(k-nearest-neighbor,邻近算法)
 1. 算法描述：
